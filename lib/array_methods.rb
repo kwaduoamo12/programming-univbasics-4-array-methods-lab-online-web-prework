@@ -13,7 +13,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  using_first = using.first 
+  using_first = "using.first" 
 
 end
 
