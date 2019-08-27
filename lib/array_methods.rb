@@ -14,6 +14,7 @@ end
 
 def using_first(array)
   using.first
+  =>array 
 
 end
 
